@@ -8,3 +8,6 @@ html{
 .paragraf{
     display: none;
 }
+p{
+    color: blue;
+}
